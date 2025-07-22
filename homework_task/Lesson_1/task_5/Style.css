@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://cs13.pikabu.ru/post_img/big/2023/08/26/10/1693070341189598528.jpg);
+    background-size:  cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+*{
+    color: coral;
+}
+p{
+    font-size: 45px;
+    background-color: wheat;
+}
+h1{
+    font-size: 75px;
+    color: white;
+    text-align: center;
+}
+h2{
+    font-size: 55px;
+    color: white;
+    margin: 25px;
+}
+h3{
+    font-size: 40px;
+}
+img {
+    width: 8%;
+    /*object-fit:  cover;*/
+margin: 1px 25px;
+}
