@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+.box{
+width: 10%;
+height: 20%;
+    /*margin: 0px 10px;*/
+}
+
+.red{
+background-color: red;
+}
+.blue{
+background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.blue p{
+    font-size: 250%;
+    /*text-align: left;*/
+}
+.blue img{
+    width: 50%;
+    display: flex;
+}
+.dark{
+    background-color: black;
+}
+.flex{
+    height: 100%;
+    width: 100%;
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+body{
+display: flex;
+height: 100vh;
+    /*background-color: yellowgreen;*/
+}
